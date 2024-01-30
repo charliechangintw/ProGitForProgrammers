@@ -1,0 +1,16 @@
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\bin\Debug\net5.0\ProGitForProgrammers.exe
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\bin\Debug\net5.0\ProGitForProgrammers.deps.json
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\bin\Debug\net5.0\ProGitForProgrammers.runtimeconfig.json
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\bin\Debug\net5.0\ProGitForProgrammers.runtimeconfig.dev.json
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\bin\Debug\net5.0\ProGitForProgrammers.dll
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\bin\Debug\net5.0\ref\ProGitForProgrammers.dll
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\bin\Debug\net5.0\ProGitForProgrammers.pdb
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net5.0\ProGitForProgrammers.csproj.AssemblyReference.cache
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net5.0\ProGitForProgrammers.GeneratedMSBuildEditorConfig.editorconfig
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net5.0\ProGitForProgrammers.AssemblyInfoInputs.cache
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net5.0\ProGitForProgrammers.AssemblyInfo.cs
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net5.0\ProGitForProgrammers.csproj.CoreCompileInputs.cache
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net5.0\ProGitForProgrammers.dll
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net5.0\ref\ProGitForProgrammers.dll
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net5.0\ProGitForProgrammers.pdb
+D:\AERO\學習\GitXGitHubLearn\CommandLine\ProGitForProgrammers\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net5.0\ProGitForProgrammers.genruntimeconfig.cache
