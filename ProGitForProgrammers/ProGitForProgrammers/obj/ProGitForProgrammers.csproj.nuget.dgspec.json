@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AERO\\學習\\GitXGitHubLearn\\CommandLine\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers.csproj": {}
+    "D:\\AERO\\學習\\GitXGitHubLearn\\GitHubDesktop\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers.csproj": {}
   },
   "projects": {
-    "D:\\AERO\\學習\\GitXGitHubLearn\\CommandLine\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers.csproj": {
+    "D:\\AERO\\學習\\GitXGitHubLearn\\GitHubDesktop\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AERO\\學習\\GitXGitHubLearn\\CommandLine\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers.csproj",
+        "projectUniqueName": "D:\\AERO\\學習\\GitXGitHubLearn\\GitHubDesktop\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers.csproj",
         "projectName": "ProGitForProgrammers",
-        "projectPath": "D:\\AERO\\學習\\GitXGitHubLearn\\CommandLine\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers.csproj",
+        "projectPath": "D:\\AERO\\學習\\GitXGitHubLearn\\GitHubDesktop\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers.csproj",
         "packagesPath": "C:\\Users\\GIGABYTE\\.nuget\\packages\\",
-        "outputPath": "D:\\AERO\\學習\\GitXGitHubLearn\\CommandLine\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\obj\\",
+        "outputPath": "D:\\AERO\\學習\\GitXGitHubLearn\\GitHubDesktop\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GIGABYTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
