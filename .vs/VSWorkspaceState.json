@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProGitForProgrammers",
+    "\\ProGitForProgrammers\\ProGitForProgrammers"
   ],
-  "SelectedNode": "\\ProGitForProgrammers.sln",
+  "SelectedNode": "\\ProGitForProgrammers\\ProGitForProgrammers\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
